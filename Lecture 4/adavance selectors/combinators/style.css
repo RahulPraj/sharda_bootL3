@@ -1,0 +1,19 @@
+/* descendent  */
+
+.parent p{
+    color: red;
+    border: 1px solid black;
+}
+
+article section a{
+    background-color: cadetblue;
+}
+
+/* child */
+ul > li{
+    border: 1px solid black;
+}
+
+ol > li{
+    color: blueviolet;
+}

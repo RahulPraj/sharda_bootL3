@@ -1,0 +1,39 @@
+/* .para{
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+
+} */
+
+/* relative units */
+/* percentage */
+
+/* .box{
+    border: 2px solid red;
+    width: 80%;
+}
+
+.box p{
+    border: 2px dashed rgb(71, 32, 212);
+    width: 50%;
+} */
+
+/* em */
+/* ul{
+    font-size: 20px;
+} */
+
+/* ul li{
+    font-size: 2em;
+} */
+/* rem */
+ul li{
+    font-size: 2rem;
+}
+
+.box{
+    border: 2px solid black;
+    background-color: aqua;
+    width: 80vw;
+    height: 30vh;
+}

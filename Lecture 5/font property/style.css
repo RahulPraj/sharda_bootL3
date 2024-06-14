@@ -1,0 +1,22 @@
+/* p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: 900;
+    font-weight: bolder;
+    line-height: 5rem;
+    letter-spacing: 5px;
+} */
+
+ul{
+    font-size: 30px;
+    /* list-style: none; */
+   
+}
+
+li:first-child{
+    list-style-type: square;
+    /* list-style-image: url("https://plus.unsplash.com/premium_photo-1700752853984-d3d1574aabd2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHx8"); */
+   border: 1px solid black;
+   /* list-style-position: inside; */
+   background-color: aqua;
+}

@@ -1,0 +1,25 @@
+#rahul{
+    border: 5px solid red;
+    text-align: center;
+}
+
+/* #special{
+    background-color: aqua;
+} */
+
+.para{
+    color: brown;
+}
+
+/* p{
+    border: 1px solid black;
+    color: blue;
+} */
+
+*{
+    border: 2px solid red;
+}
+
+a[href="http://www.facebook.com"]{
+    color: green;
+}
